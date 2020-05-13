@@ -1,0 +1,7 @@
+*.pyc
+tipbot-password.txt
+seed.txt
+seedbackup.txt
+aeonbux.log
+db-backups/
+minute.patch
